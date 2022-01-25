@@ -1,0 +1,19 @@
+## Start MongoDB locally - this is DEPRECATED, now MongoLabs hosts a dev shell
+brew services start mongodb-community
+
+## Start Backend
+npm run dev
+
+## Launch Frontend 
+npm start
+
+
+## MongoLab
+contact@rubicon.finance
+6I0gd5gYMMNUGmqyEkFd8
+
+## MongoDB Instance 11.11.2020
+admin
+ZJlx4bx1EHqGecnf
+
+mongodb+srv://admin:<password>@cluster-11-11-2020.vbani.mongodb.net/<dbname>?retryWrites=true&w=majority
